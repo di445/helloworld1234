@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WordPress Heroku
 
 This project is a template for installing and running [WordPress](http://wordpress.org/) on [Heroku](http://www.heroku.com/). The repository comes bundled with:
@@ -144,6 +143,3 @@ bin/
 * [Setting Up a Local Environment on Linux (Apache)](https://github.com/mhoofman/wordpress-heroku/wiki/Setting-Up-a-Local-Environment-on-Linux-\(Apache\))
 * [Setting Up a Local Environment on Mac OS X](https://github.com/mhoofman/wordpress-heroku/wiki/Setting-Up-a-Local-Environment-on-Mac-OS-X)
 * [More...](https://github.com/mhoofman/wordpress-heroku/wiki)
-=======
-# helloworld1234  
->>>>>>> ae6cdd87fe83da9a00a24401d34ebe0e42d37aa9
